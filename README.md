@@ -21,36 +21,34 @@ Below are screenshots of each screen to guide you through how the app looks and 
 <img src="https://github.com/marahsaadeh/PalEatMobileApp/assets/92647123/3b094d9d-a740-4b2c-a5a4-68a683ff1664" alt="SignIn-Screen" width="300"/>
 
 ### Screen 4: Categories Page
-![Categories-Screen](https://github.com/marahsaadeh/PalEatMobileApp/assets/92647123/6fd32b86-cbbe-48e8-8688-791263421e6c)
+<img src="https://github.com/marahsaadeh/PalEatMobileApp/assets/92647123/6fd32b86-cbbe-48e8-8688-791263421e6c" alt="Categories-Screen" width="300"/>
 
 ### Screen 5: SubCategories Page
-![Breakfast-Screen](https://github.com/marahsaadeh/PalEatMobileApp/assets/92647123/0c87da96-eccb-493f-9bd4-55d43dfcf869)
+<img src="https://github.com/marahsaadeh/PalEatMobileApp/assets/92647123/0c87da96-eccb-493f-9bd4-55d43dfcf869" alt="Breakfast-Screen" width="300"/>
 
 ### Screen 6: Recipe Page
-![Zatar-Screen](https://github.com/marahsaadeh/PalEatMobileApp/assets/92647123/4e9b72ad-2fe7-4a73-b46e-32f256f51413)
+<img src="https://github.com/marahsaadeh/PalEatMobileApp/assets/92647123/4e9b72ad-2fe7-4a73-b46e-32f256f51413" alt="Zatar-Screen" width="300"/>
 
-### Screen 7:  AddToFavorite 
+### Screen 7: AddToFavorite 
 "You must log in first to be able to add to favorite"
-![AddToFav-Screen](https://github.com/marahsaadeh/PalEatMobileApp/assets/92647123/3477e4fa-3193-4841-8ace-b6861d85092a)
+<img src="https://github.com/marahsaadeh/PalEatMobileApp/assets/92647123/3477e4fa-3193-4841-8ace-b6861d85092a" alt="AddToFav-Screen" width="300"/>
 
 ### Screen 8: Favorite Page
-![BabaGhanoush-Screen](https://github.com/marahsaadeh/PalEatMobileApp/assets/92647123/e1565d31-5e22-40a7-b22e-864ff213a445)
-
-![Favorite-Screen](https://github.com/marahsaadeh/PalEatMobileApp/assets/92647123/1779063b-cdc3-4bab-ad20-2c039e15ddf4)
+<img src="https://github.com/marahsaadeh/PalEatMobileApp/assets/92647123/e1565d31-5e22-40a7-b22e-864ff213a445" alt="BabaGhanoush-Screen" width="300"/>
+<img src="https://github.com/marahsaadeh/PalEatMobileApp/assets/92647123/1779063b-cdc3-4bab-ad20-2c039e15ddf4" alt="Favorite-Screen" width="300"/>
 
 ### Screen 9: Search Bar
-![SearchBar-Screen](https://github.com/marahsaadeh/PalEatMobileApp/assets/92647123/9441ae7e-3f68-491c-a365-284c8496996c)
+<img src="https://github.com/marahsaadeh/PalEatMobileApp/assets/92647123/9441ae7e-3f68-491c-a365-284c8496996c" alt="SearchBar-Screen" width="300"/>
 
 ### Screen 10: Search Page 
 research results
-![SearchMusakhan-Screen](https://github.com/marahsaadeh/PalEatMobileApp/assets/92647123/09e25296-6f7f-41dc-a400-fcf2552c7e3d)
+<img src="https://github.com/marahsaadeh/PalEatMobileApp/assets/92647123/09e25296-6f7f-41dc-a400-fcf2552c7e3d" alt="SearchMusakhan-Screen" width="300"/>
 
 ### Screen 11: Add Ingredients To ShoppingList
-![AddToShoppingList](https://github.com/marahsaadeh/PalEatMobileApp/assets/92647123/9fef2cd4-726f-4eda-8cc9-142d90874574)
-
-![SaveIngredients-Screen](https://github.com/marahsaadeh/PalEatMobileApp/assets/92647123/8297458b-6f9b-4dd1-8d83-d823e5765170)
+<img src="https://github.com/marahsaadeh/PalEatMobileApp/assets/92647123/9fef2cd4-726f-4eda-8cc9-142d90874574" alt="AddToShoppingList" width="300"/>
+<img src="https://github.com/marahsaadeh/PalEatMobileApp/assets/92647123/8297458b-6f9b-4dd1-8d83-d823e5765170" alt="SaveIngredients-Screen" width="300"/>
 
 ### Screen 12: NavBar
-![NavBar-Screen](https://github.com/marahsaadeh/PalEatMobileApp/assets/92647123/1221c1dc-5168-40e8-975f-7e202d8794ef)
+<img src="https://github.com/marahsaadeh/PalEatMobileApp/assets/92647123/1221c1dc-5168-40e8-975f-7e202d8794ef" alt="NavBar-Screen" width="300"/>
 
 
