@@ -29,8 +29,7 @@ Below are screenshots of each screen to guide you through how the app looks and 
 ### Screen 6: Recipe Page
 <img src="https://github.com/marahsaadeh/PalEatMobileApp/assets/92647123/4e9b72ad-2fe7-4a73-b46e-32f256f51413" alt="Zatar-Screen" width="300"/>
 
-### Screen 7: AddToFavorite 
-"You must log in first to be able to add to favorite"
+### Screen 7: Add to Favorites (You must log in first to be able to add to favorites)
 <img src="https://github.com/marahsaadeh/PalEatMobileApp/assets/92647123/3477e4fa-3193-4841-8ace-b6861d85092a" alt="AddToFav-Screen" width="300"/>
 
 ### Screen 8: Favorite Page
@@ -40,8 +39,7 @@ Below are screenshots of each screen to guide you through how the app looks and 
 ### Screen 9: Search Bar
 <img src="https://github.com/marahsaadeh/PalEatMobileApp/assets/92647123/9441ae7e-3f68-491c-a365-284c8496996c" alt="SearchBar-Screen" width="300"/>
 
-### Screen 10: Search Page 
-research results
+### Screen 10: Search Page research results
 <img src="https://github.com/marahsaadeh/PalEatMobileApp/assets/92647123/09e25296-6f7f-41dc-a400-fcf2552c7e3d" alt="SearchMusakhan-Screen" width="300"/>
 
 ### Screen 11: Add Ingredients To ShoppingList
