@@ -12,6 +12,7 @@ https://github.com/marahsaadeh/PalEatMobileApp/assets/92647123/d95e8dc6-d7ac-4de
 Below are screenshots of each screen to guide you through how the app looks and functions. Let's start with the first screen...
 
 ### Screen 1: Welcome Page
+![Welcome-Screen](https://github.com/marahsaadeh/PalEatMobileApp/assets/92647123/8efd9c6e-e80b-492f-8912-7e370492e36b)
 
 
 
