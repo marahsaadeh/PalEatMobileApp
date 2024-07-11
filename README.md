@@ -39,7 +39,7 @@ Below are screenshots of each screen to guide you through how the app looks and 
 ### Screen 9: Search Bar
 <img src="https://github.com/marahsaadeh/PalEatMobileApp/assets/92647123/9441ae7e-3f68-491c-a365-284c8496996c" alt="SearchBar-Screen" width="300"/>
 
-### Screen 10: Search Page research results
+### Screen 10: Search Page - Research Results
 <img src="https://github.com/marahsaadeh/PalEatMobileApp/assets/92647123/09e25296-6f7f-41dc-a400-fcf2552c7e3d" alt="SearchMusakhan-Screen" width="300"/>
 
 ### Screen 11: Add Ingredients To ShoppingList
