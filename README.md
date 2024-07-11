@@ -12,13 +12,13 @@ https://github.com/marahsaadeh/PalEatMobileApp/assets/92647123/d95e8dc6-d7ac-4de
 Below are screenshots of each screen to guide you through how the app looks and functions. Let's start with the first screen...
 
 ### Screen 1: Welcome Page
-![Welcome-Screen](https://github.com/marahsaadeh/PalEatMobileApp/assets/92647123/8efd9c6e-e80b-492f-8912-7e370492e36b)
+<img src="https://github.com/marahsaadeh/PalEatMobileApp/assets/92647123/8efd9c6e-e80b-492f-8912-7e370492e36b" alt="Welcome-Screen" width="300"/>
 
 ### Screen 2: Sign-Up Page
-![SignUp-Screen](https://github.com/marahsaadeh/PalEatMobileApp/assets/92647123/111777c2-b4b9-4a4b-ba6d-7946b2254c68)
+<img src="https://github.com/marahsaadeh/PalEatMobileApp/assets/92647123/111777c2-b4b9-4a4b-ba6d-7946b2254c68" alt="SignUp-Screen" width="300"/>
 
 ### Screen 3: Sign-In Page
-![SignIn-Screen](https://github.com/marahsaadeh/PalEatMobileApp/assets/92647123/3b094d9d-a740-4b2c-a5a4-68a683ff1664)
+<img src="https://github.com/marahsaadeh/PalEatMobileApp/assets/92647123/3b094d9d-a740-4b2c-a5a4-68a683ff1664" alt="SignIn-Screen" width="300"/>
 
 ### Screen 4: Categories Page
 ![Categories-Screen](https://github.com/marahsaadeh/PalEatMobileApp/assets/92647123/6fd32b86-cbbe-48e8-8688-791263421e6c)
