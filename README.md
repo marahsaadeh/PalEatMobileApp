@@ -14,32 +14,4 @@ Below are screenshots of each screen to guide you through how the app looks and 
 ### Screen 1: Welcome Page
 
 
-### Screen 2: Sign-Up Page
-
-
-### Screen 3: Sign-In Page
-
-
-### Screen 4: Categories Page
-
-
-### Screen 5: SubCategories Page
-
-
-### Screen 6: Recipe Page
-
-
-### Screen 7:  AddToFavorite
-لازم تعمل ساين ان بل اول
-
-### Screen 8: Search Page
-
-
-### Screen 9: نتائج البحث
-
-
-### Screen 10: Add Ingredients To ShoppingList
-
-
-### Screen 11: NavBar
 
